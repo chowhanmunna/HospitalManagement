@@ -19,6 +19,7 @@ import com.ComprehensiveAssesment.HospitalManagement.Service.HospitalService;
 @RestController
 @CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/doctors")
+//hi
 public class DoctorController {
 
 	final public HospitalService service;
